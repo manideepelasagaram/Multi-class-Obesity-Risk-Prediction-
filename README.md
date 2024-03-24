@@ -7,10 +7,10 @@ In this project, our goal is to predict the risk of obesity using machine learni
 ## Creating DataFrame
 We begin by loading the dataset into a pandas DataFrame, dropping the 'id' column as it's redundant for our analysis.
 
-##Dimensions of the DataFrame
+## Dimensions of the DataFrame
 Checking the dimensions of the DataFrame helps us understand its size and structure.
 
-##Displaying the First 20 Rows
+## Displaying the First 20 Rows
 Examining the first few rows of the DataFrame gives us an initial insight into the data.
 
 D#ata Preprocessing
