@@ -1,6 +1,6 @@
-#Multi-Class Prediction of Obesity Risk
+Multi-Class Prediction of Obesity Risk
 
-##Introduction
+Introduction
 In this project, our goal is to predict the risk of obesity using machine learning algorithms. The dataset we're working with contains valuable information about individuals' demographic details, lifestyle habits, and physical characteristics.
 
 #Data Exploration
