@@ -3,8 +3,8 @@ Multi-Class Prediction of Obesity Risk
 Introduction
 In this project, our goal is to predict the risk of obesity using machine learning algorithms. The dataset we're working with contains valuable information about individuals' demographic details, lifestyle habits, and physical characteristics.
 
-#Data Exploration
-##Creating DataFrame
+# Data Exploration
+## Creating DataFrame
 We begin by loading the dataset into a pandas DataFrame, dropping the 'id' column as it's redundant for our analysis.
 
 ##Dimensions of the DataFrame
